@@ -1,7 +1,14 @@
 # Splunk Add-on for PowerShell
 
 The Splunk Add-on for PowerShell provides field extraction for PowerShell event
-logs.
+logs. Unfortunately, PowerShell logs are in system language which requires field 
+extraction for each language. Furthermore, delimiters are sometimes `:` and sometimes `=`.
+
+Currently supported languages are
+* English
+* French
+* Italien
+* German
 
 ## Prerequisites
 
