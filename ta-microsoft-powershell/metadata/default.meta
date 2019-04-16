@@ -1,0 +1,19 @@
+[]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+
+[lookups/eventcode.csv]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+
+[transforms/eventcode]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+
+[props/XmlWinEventLog%3AMicrosoft-Windows-PowerShell%2FOperational/LOOKUP-eventcode]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
