@@ -7,7 +7,7 @@ extraction for each language. Furthermore, delimiters are sometimes `:` and some
 Currently supported languages are
 * English
 * French
-* Italien
+* Italian
 * German
 
 ## Prerequisites
