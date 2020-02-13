@@ -20,10 +20,10 @@ Add the folder "ta-microsoft-powershell" to a ZIP and upload it to https://spunk
 
 ## Sourcetypes
 
-Following sourcetype is used for field extraction.
+Following source is used for field extraction.
 
 ```
-sourcetype="XmlWinEventLog:Microsoft-Windows-PowerShell/Operational" 
+source="XmlWinEventLog:Microsoft-Windows-PowerShell/Operational" 
 ```
 
 ## Changelog
